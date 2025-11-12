@@ -12,3 +12,16 @@
 #   category: Google
 #   compinfos:
 #     - com.google.app/com.google.app.MainActivity
+
+hyundai_bluelink:
+  - com.stationdm.bluelink/com.stationdm.bluelink.kotlin.ui.auth.splash.SDMSplashActivity
+
+bank_of_hydro:
+  - com.csiweb.digitalbanking.bk1762/com.csiweb.digitalbanking.MainActivity
+
+nelko:
+  - com.nelko.printer/com.ezink.app.nelko.ui.SplashActivity
+
+gps_status: #exists in Delta. This is the "pro key" app for addon features.
+  - com.eclipsim.gpstoolbox.pro/com.eclipsim.gpstoolbox.pro.MainActivity
+
