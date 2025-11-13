@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g id="bank_of_hydro" transform="matrix(1,0,0,1,225.033724,0)">
-        <rect x="-225.034" y="0" width="192" height="192" style="fill:none;"/>
+        <rect x="-225.034" y="0" width="191.85" height="192" style="fill:none;"/>
         <g transform="matrix(1.159946,0,0,0.843363,-240.351815,14.906333)">
             <path d="M171.609,35.581L171.609,156.73C171.609,165.24 166.585,172.149 160.398,172.149L31.142,172.149C24.955,172.149 19.932,165.24 19.932,156.73L19.932,35.581C19.932,27.071 24.955,20.162 31.142,20.162L160.398,20.162C166.585,20.162 171.609,27.071 171.609,35.581Z" style="fill:white;"/>
         </g>
