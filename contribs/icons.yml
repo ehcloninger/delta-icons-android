@@ -13,7 +13,7 @@
 #   compinfos:
 #     - com.google.app/com.google.app.MainActivity
 
-hyundai_bluelink:
+hyundai_bluelink_alt_1:
   - com.stationdm.bluelink/com.stationdm.bluelink.kotlin.ui.auth.splash.SDMSplashActivity
 
 bank_of_hydro:
